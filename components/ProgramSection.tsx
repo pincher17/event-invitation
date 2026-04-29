@@ -41,14 +41,14 @@ const ProgramSection: React.FC = () => {
               <span className="number">02</span>
               <div>
                 <span className="title">Фуршет</span>
-                <p>Неформальное общение и  фуршет с нотками Италии</p>
+                <p>Попробуете блюда, которые мы готовим для ваших событий</p>
               </div>
             </ProgramItem>
             <ProgramItem $centerNumber={titlesOnly}>
               <span className="number">03</span>
               <div>
                 <span className="title">Интерактивы от ведущего</span>
-                <p>Яркий и необыкновенный дуэт ведущих задаст вайб в лучших традициях Италии</p>
+                <p>Яркий и необыкновенный дуэт ведущих задаст вайб и настроение</p>
               </div>
             </ProgramItem>
             <ProgramItem $centerNumber={titlesOnly}>
