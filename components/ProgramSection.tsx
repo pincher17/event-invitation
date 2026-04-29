@@ -55,7 +55,7 @@ const ProgramSection: React.FC = () => {
               <span className="number">04</span>
               <div>
                 <span className="title">презентация от шеф-повара</span>
-                <p>Гастрономическая упаковка впечатлений обеспечена. Возможно обсудить ваши идеи и увидеть, как их можно воплотить</p>
+                <p>Каждый из вас попробует фирменное блюдо от нашего шеф-повара</p>
               </div>
             </ProgramItem>
           </ProgramList>
